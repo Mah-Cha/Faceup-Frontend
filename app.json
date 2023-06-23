@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "faceup-part3",
-    "slug": "faceup-part3",
+    "name": "FaceUp App",
+    "slug": "FaceUp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
